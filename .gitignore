@@ -103,7 +103,6 @@ venv.bak/
 
 # custom
 csv/
-TBrain_Round2_DataSet_20180511/
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
